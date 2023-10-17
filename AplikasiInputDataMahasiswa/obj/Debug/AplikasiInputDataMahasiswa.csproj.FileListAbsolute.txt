@@ -1,0 +1,10 @@
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.exe
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\AplikasiInputDataMahasiswa.pdb
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.AssemblyReference.cache
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.exe
+C:\Users\hamdan\source\repos\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\AplikasiInputDataMahasiswa.pdb
